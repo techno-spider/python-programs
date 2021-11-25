@@ -3,3 +3,5 @@ str2 = "world"
 
 # concate strings
 print(str1 + " " + str2)
+
+# o/p: Hello World
