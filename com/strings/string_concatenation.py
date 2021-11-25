@@ -1,5 +1,5 @@
 str1 = 'Hello'
-str2 = "world"
+str2 = "World"
 
 # concate strings
 print(str1 + " " + str2)
