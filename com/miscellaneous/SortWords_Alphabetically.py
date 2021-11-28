@@ -10,7 +10,7 @@ print("The sorted words are:")
 for word in words:
     print(word, end=" ")
 
-print("\nWords at 0 index before sort: ", text[0])
+print("\nCharacter at 0 index before sort: ", text[0])
 print("\nWords at 0 index after sort: ", words[0])
 
 # i/p: python programming language
